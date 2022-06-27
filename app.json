@@ -84,12 +84,12 @@
          "value": "Agora"
       },
       "UPDATE_CHANNEL": {
-         "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
+         "description": "Your Telegram Bot Update Channel username Without @ like: Agora_Robots.",
          "required": true,
          "value": "Agora_Robots"
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
+         "description": "Your Telegram support group chat username Without @ like: Agora_Robots.",
          "required": true,
          "value": "Agora_Army"
       },
