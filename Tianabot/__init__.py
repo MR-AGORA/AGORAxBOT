@@ -19,7 +19,7 @@ from inspect import getfullargspec
 StartTime = time.time()
 
 # enable logging
-FORMAT = "[TianaBot] %(message)s"
+FORMAT = "[Agora] %(message)s"
 logging.basicConfig(
     handlers=[logging.FileHandler("log.txt"), logging.StreamHandler()],
     level=logging.INFO,
