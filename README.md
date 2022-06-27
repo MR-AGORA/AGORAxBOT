@@ -1,20 +1,20 @@
-<p align="center"><img src="https://telegra.ph/file/8edbffafac3e7f3e8ad10.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/3969c0a47ce8894f057d6.jpg"></p>
 
 <h4 align="center">
     A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon.
 </h4>
 <p align="center">
-    <a href="https://t.me/Tiana_Prince_Bot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/AgoraXBot"> Ready-To-Use Bot </a> •
     <a href="http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1"> Documentation </a> •
-    <a href="https://t.me/TianaxUpdates"> Update Channel </a> •
-    <a href="https://t.me/TianaxSupport"> Support Chat </a> 
+    <a href="https://t.me/AGORA_ROBOTS"> Update Channel </a> •
+    <a href="https://t.me/agora_army"> Support Chat </a> 
 </p>
     
-# Tiana Bot
-#### Tiana is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
+# Agora Bot
+####  Agora is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
 <p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
 
-#### Tiana's features over other bots:
+#### Agora's features over other bots:
 - Modern
 - Fast
 - Fully open-source
@@ -56,10 +56,10 @@ Read [Docs](http://www.prince-botz.tk/2022/02/tiana-bot.html?m=1) for Detailed D
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Tiana Group Managment Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince-Botz/TianaBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/MR-AGORA/AGORAxBOY"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-<h4>Click the button below to deploy Tiana Music Bot on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/Prince301102/Tiana-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
+<h4>Click the button below to deploy agora Music Bot on Heroku!</h4>    
+<p><a href="https://heroku.com/deploy?template=https://github.com/MR-AGORA/AGORA-MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
 </details>
 
 <details>
@@ -82,9 +82,9 @@ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/TianaxUpdates)
-- [Telegram Support Group](https://t.me/TianaxSupport)
-- [Contact Owner](https://t.me/PrincexAssistantBot)
+- [Telegram Channel](https://t.me/Agora_Robots)
+- [Telegram Support Group](https://t.me/Agora_Army)
+- [Contact Owner](https://t.me/AgoraxBot)
 
 ## License
 
