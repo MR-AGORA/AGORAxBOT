@@ -84,7 +84,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 *Hᴇʟʟᴏ {} * [!]({})
 ───────────────────────
-× *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
+× *I'ᴍ Aɢᴏʀᴀ-Sᴇʀᴠᴇʀ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
 × *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
 ───────────────────────
 × *Uᴘᴛɪᴍᴇ:* `{}`
@@ -235,7 +235,7 @@ def start(update: Update, context: CallbackContext):
           update.effective_message.reply_photo(
                 TIANA_IMG, caption="""*Hᴇʟʟᴏ {} !*
 ───────────────────
-× *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
+× *I'ᴍ Aɢᴏʀᴀ-Sᴇʀᴠᴇʀ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
 × *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
 ───────────────────
 × *Uᴘᴛɪᴍᴇ:* `{}`
@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                     sql.num_chats()),
                 reply_markup=InlineKeyboardMarkup(
                  [
-                  [InlineKeyboardButton(text="📄 Source", url="https://github.com/prince-botz/tianabot"), 
+                  [InlineKeyboardButton(text="📄 Source", url="https://github.com/MR-AGORA"), 
                    InlineKeyboardButton(text="🫂 Support", url=f"https://t.me/{SUPPORT_CHAT}")]
                  ]
               ),
