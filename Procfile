@@ -1,2 +1,2 @@
-worker: python3 -m AgoraRobots
+worker: python3 -m tianarobot
 ps:scale worker=1
