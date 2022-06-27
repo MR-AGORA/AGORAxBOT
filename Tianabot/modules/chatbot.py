@@ -37,7 +37,7 @@ from Tianabot.utils.filter_groups import chatbot_group
 
 __mod_name__ = "Cʜᴀᴛ-Bᴏᴛ"
 __help__ = """
-/chatbot [ENABLE|DISABLE] To Enable Or Disable ChatBot In Your Chat.
+/chatbot [ENABLE | DISABLE] To Enable Or Disable ChatBot In Your Chat.
 
 There's one module of this available for userbot also
 check userbot module help."""
@@ -61,7 +61,7 @@ async def chat_bot_toggle(db, message: Message):
             return await eor(message, text="Chatbot Disabled!")
         await eor(message, text="ChatBot Is Already Disabled.")
     else:
-        await eor(message, text="**Usage:**\n/chatbot [ENABLE|DISABLE]")
+        await eor(message, text="**Usage:**\n/chatbot [ENABLE | DISABLE]")
 
 
 # Enabled | Disable Chatbot
@@ -71,7 +71,7 @@ async def chat_bot_toggle(db, message: Message):
 @capture_err
 async def chatbot_status(_, message: Message):
     if len(message.command) != 2:
-        return await eor(message, text="**Usage:**\n/chatbot [ENABLE|DISABLE]")
+        return await eor(message, text="**Usage:**\n/chatbot [ENABLE | DISABLE]")
     await chat_bot_toggle(active_chats_bot, message)
 
 
