@@ -247,7 +247,7 @@ def start(update: Update, context: CallbackContext):
                     sql.num_chats()),
                 reply_markup=InlineKeyboardMarkup(
                  [
-                  [InlineKeyboardButton(text="📄 Source", url="https://t.me/mr_agora"), 
+                  [InlineKeyboardButton(text="📄 Owner", url="https://t.me/mr_agora"), 
                    InlineKeyboardButton(text="🫂 Support", url=f"https://t.me/{SUPPORT_CHAT}")]
                  ]
               ),
@@ -583,7 +583,7 @@ Aɢᴀɪɴ  Tʜᴀɴᴋs  Fᴏʀ  Usɪɴɢ  Mᴇ
                 [[InlineKeyboardButton(text="🔙 𝘽𝙖𝙘𝙠", callback_data="agora_music")]]
             ),
         )
-    elif query.data == "agora_musicb":
+    elif query.data == "agora_music":
         query.message.edit_text(
             text="""✗ *Here is the help for Admin Commands*:
 
@@ -724,7 +724,7 @@ Support
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="📄 𝙎𝙤𝙪𝙧𝙘𝙚", url="github.com/Prince-Botz/Tianabot"),                 
+                    InlineKeyboardButton(text="📄 𝙊𝙬𝙣𝙚𝙧", url="t.me/mr_agora"),                 
                     InlineKeyboardButton(text="🔙 𝘽𝙖𝙘𝙠", callback_data="about_"),
                  ]    
                 ]
