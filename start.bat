@@ -1,4 +1,4 @@
 @echo off
-TITLE TIANA BOT
+TITLE AGORA ROBOTS
 :: Enables virtual env mode and then starts Tiana
-env\scripts\activate.bat && py -m Tianabot
+env\scripts\activate.bat && py -m AgoraRobots
