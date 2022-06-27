@@ -12,7 +12,7 @@
     
 # Agora Bot
 ####  Agora is a Telegram group managment bot made using Telethon and Pyrogram which makes it modern and faster than most of the exisitng Telegram Chat Managers.
-<p align="center"><img src="https://telegra.ph/file/fae3dd2a2c6e491e4893e.jpg"></p>
+<p align="center"><img src="https://te.legra.ph/file/b862ec8aa7c6781738298.jpg"></p>
 
 #### Agora's features over other bots:
 - Modern
@@ -25,7 +25,7 @@
 - Smart Ai System
 - Easy To Use
 
-Can be found on Telegram as [@TianaRobot](https://t.me/TIANA_PRINCE_BOT)
+Can be found on Telegram as [@AgoraRobot](https://t.me/AGORAXBOT)
 
 ## Deployment
 First Step!
